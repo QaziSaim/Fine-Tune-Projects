@@ -2,4 +2,4 @@
 ## PROJECT 1:
 ### Fine-Tune Mistral 7B 
 ## PROJECT 2:
-### Upcoming
+### Encoder Decoder Architecture Added
